@@ -130,19 +130,6 @@ This section showcases the standout highlights derived from the dashboard.
 
 ---
 
-## 👨‍💻 About Me
-
-**👤 Nirav Trivedi** 
-
-a passionate data analyst who transforms raw sports data into meaningful visual stories. This IPL project helped me combine domain knowledge, data visualization, and performance insights using Power BI.
-
-🎓 M.Sc. in Applied Statistics | 💻 Aspiring Data Analyst  
-📫 [niravtrivedi069@gmail.com](mailto:niravtrivedi069@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/trivedi-nirav-a1760424b)  
-📂 [GitHub Profile](https://github.com/niravtrivedi23)
-
----
-
 ## 🔗 Check It Out
 
 - 📂 [Download Dataset ZIP](https://github.com/niravtrivedi23/IPL-Dashboard/blob/main/Data.zip)  
