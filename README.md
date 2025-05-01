@@ -9,7 +9,7 @@ Welcome to my Power BI project analyzing the Indian Premier League (IPL) from 20
 
 ## 🚀 Project Overview
 
-This project is a dynamic and visually interactive dashboard built using **Power BI**, aimed at uncovering insights from IPL’s 15+ years of match data. The dashboard helps cricket enthusiasts, analysts, and stakeholders explore key performance indicators like:
+The goal of this Power BI-built dynamic and aesthetically interactive dashboard project is to extract insights from the IPL's more than 15 years of match data. The dashboard assists stakeholders, analysts, and cricket fans in examining important performance metrics such as:
 
 - 🏅 Top performing players  
 - 🏟️ Match-winning patterns  
