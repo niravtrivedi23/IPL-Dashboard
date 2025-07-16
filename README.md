@@ -103,7 +103,6 @@ This section showcases the standout highlights derived from the dashboard.
 |-----------------------|-----------------------------------------|
 | `IPL Dashboard.pbix`  | Power BI Dashboard File                 |
 | `matches.csv`         | Historical Match Data (2008–2024)      |
-| `deliveries.csv`      | Ball-by-ball Delivery Data             |
 | `Final IPL.xlsx`      | Custom Summary Data File               |
 | `IPL Dashboard.png`   | Image Preview of the Dashboard         |
 
@@ -131,8 +130,7 @@ This section showcases the standout highlights derived from the dashboard.
 ---
 
 ## 🔗 Check It Out
-
-- 📂 [Download Dataset ZIP](https://github.com/niravtrivedi23/IPL-Dashboard/blob/main/Data.zip)  
+ 
 - 📷 [View Dashboard Image](https://github.com/niravtrivedi23/IPL-Dashboard/blob/main/IPL%20Dashboard.png)  
 - 🎯 [Open `.pbix` Dashboard](https://github.com/niravtrivedi23/IPL-Dashboard/blob/main/IPL%20Dashboard.pbix)
 
